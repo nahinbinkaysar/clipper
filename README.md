@@ -26,7 +26,7 @@ Clipper solves this by placing essential clipboard controls directly on the scre
 - Lightweight and fast
 
 ## Screenshot
-![Clipper Screenshot](clippeccr.png)
+![Clipper Screenshot](clipper.png)
 
 ## Platform
 Windows
